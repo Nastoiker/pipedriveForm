@@ -17,4 +17,4 @@ pnpm build
 # or
 npm run build
 ```
-![img](https://ibb.co/LRqP5DS)
+![img](https://www.dropbox.com/scl/fi/82l4wrtqgklmun698gjtn/2023-07-20-153041.png?dl=0&rlkey=44zg61zcq717ydlcnkpscma5i)
